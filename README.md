@@ -1,6 +1,6 @@
 # My portfolio
 
-![image](https://github.com/user-attachments/assets/"C:\Users\lucky\OneDrive\Pictures\Screenshots\Screenshot 2026-03-20 123940.png")
+![image](https://github.com/user-attachments/assets/")
 inspired by https://bokoko33.me/
 
 Hi! Welcome to my 3D portfolio. This portfolio is a summary of my other site (as shown below) and is more lighthearted in nature, showing more about my hobbies/interests. 
